@@ -168,14 +168,14 @@
          When possible, we advise using the relevant groupId and version
          properties for your dependencies rather than hardcoding them. -->
 
-    <bioformats.version>5.8.2</bioformats.version>
-    <formats-gpl.version>${bioformats.version}</formats-gpl.version>
+    <bioformats.version>5.10.0-SNAPSHOT</bioformats.version>
+    <formats-gpl.version>5.10.0-SNAPSHOT</formats-gpl.version>
     <logback.version>1.1.1</logback.version>
-    <ome-stubs.version>5.3.0</ome-stubs.version>
-    <lwf-stubs.version>${ome-stubs.version}</lwf-stubs.version>
-    <mipav-stubs.version>${ome-stubs.version}</mipav-stubs.version>
+    <ome-stubs.version>5.3.3-SNAPSHOT</ome-stubs.version>
+    <lwf-stubs.version>5.3.3-SNAPSHOT</lwf-stubs.version>
+    <mipav-stubs.version>5.3.3-SNAPSHOT</mipav-stubs.version>
     <ome-metakit.version>5.3.0</ome-metakit.version>
-    <metakit.version>${ome-metakit.version}</metakit.version>
+    <metakit.version>5.3.3-SNAPSHOT</metakit.version>
     <slf4j.version>1.7.6</slf4j.version>
     <testng.version>6.8</testng.version>
 
